@@ -6,7 +6,4 @@
 
  ![left](https://github.com/evenCoder/JWNavigationDisplay/blob/master/images/display01.gif)
 
-右窗口 
-
  ![right](https://github.com/evenCoder/JWNavigationDisplay/blob/master/images/display02.gif)
-
